@@ -19,7 +19,7 @@
 # 生日2
 "birthday2": {"name": "王先森", "birthday": "2022-10-08"},
 # 在一起的日子，格式同上
-"love_date": "2022-02-14"
+"love_date": "2022-02-14",
 
 "note_ch":"",
 "note_en":""
